@@ -6,7 +6,7 @@
   <br><br>
 
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=800&size=32&center=true&vCenter=true&width=800&height=70&duration=4000&lines=INIT+eoYuzi.sys;Developer+&+Designer;Status:+Building+Ideas...&color=FFFFFF" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=800&size=32&center=true&vCenter=true&width=800&height=70&duration=4000&lines=INIT+eoYuzi011.sys;Developer+&+Designer;Status:+Building+Ideas...&color=FFFFFF" alt="Typing SVG" />
   </h1>
 
   <p><code>"Transformando ideias em soluções digitais inovadoras."</code></p>
